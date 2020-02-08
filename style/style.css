@@ -1,0 +1,54 @@
+body{
+    align-self: center;
+    text-align: center;
+    
+}
+.menu {
+    width: 1280px;
+    margin: auto;
+}
+.menu li{
+    display: inline;
+    margin: 30px;
+    }
+.menu a{
+    text-decoration: none;
+    color: #16a085;
+    font-family:'Roboto Black',serif;
+}
+
+.content{
+    background: #f5f6f7;
+    width: 1280px;
+    margin: auto;
+    font-family:'Roboto Black',serif;
+}
+
+.content img{
+    border: none;
+    padding: 0;
+}
+.content div{
+    padding: 10px 150px;
+}
+.content button{
+    background: #16a085;
+    color: white;
+    height: 51px;
+    width: 192px;
+    text-align: center;
+    vertical-align: center;
+    margin-bottom: 50px;
+    font-family: "Gotham Rounded",serif;
+    margin-top: 10px;
+}
+footer {
+    width: 1280px;
+    text-align: right;
+    vertical-align: middle;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 100px;
+    margin: auto;
+    font-family:'Roboto Black',serif;
+}
