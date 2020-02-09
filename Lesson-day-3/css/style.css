@@ -1,0 +1,42 @@
+.background {
+    margin: auto;
+    background-image: url(../img/check-what.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+
+}
+
+.content {
+    width: 700px;
+    height: 188px;
+    margin: auto;
+    padding: 131px;
+
+}
+
+.yellow-color-text {
+    color: #f1ad1d;
+}
+
+.text-check {
+    text-transform: uppercase;
+    color: white;
+    margin: auto;
+    font-size: 22pt;
+}
+
+.text-we-have {
+    color: white;
+    margin: auto;
+    font-size: 18pt;
+    padding-top: 35px;
+
+}
+.text-line {
+    margin: 0 auto;
+    border-bottom: 3px solid #f1ad1d;
+    width: 60px;
+    padding-top: 35px;
+
+}
